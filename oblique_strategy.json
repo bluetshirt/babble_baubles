@@ -1,0 +1,460 @@
+{
+   "_default":{
+      "1":{
+         "quote":"Abandon normal instruments",
+         "custom":false
+      },
+      "2":{
+         "quote":"Accept advice",
+         "custom":false
+      },
+      "3":{
+         "quote":"Accretion",
+         "custom":false
+      },
+      "4":{
+         "quote":"A line has two sides",
+         "custom":false
+      },
+      "5":{
+         "quote":"Allow an easement (an easement is the abandonment of a stricture)",
+         "custom":false
+      },
+      "6":{
+         "quote":"Are there sections? Consider transitions",
+         "custom":false
+      },
+      "7":{
+         "quote":"Ask people to work against their better judgement",
+         "custom":false
+      },
+      "8":{
+         "quote":"Ask your body",
+         "custom":false
+      },
+      "9":{
+         "quote":"Assemble some of the instruments in a group and treat the group",
+         "custom":false
+      },
+      "10":{
+         "quote":"Balance the consistency principle with the inconsistency principle",
+         "custom":false
+      },
+      "11":{
+         "quote":"Be dirty",
+         "custom":false
+      },
+      "12":{
+         "quote":"Breathe more deeply",
+         "custom":false
+      },
+      "13":{
+         "quote":"Bridges \\n - build \\n - burn",
+         "custom":false
+      },
+      "14":{
+         "quote":"Cascades",
+         "custom":false
+      },
+      "15":{
+         "quote":"Change instrument roles",
+         "custom":false
+      },
+      "16":{
+         "quote":"Change nothing and continue with immaculate consistency",
+         "custom":false
+      },
+      "17":{
+         "quote":"Children's voices \\n - speaking \\n - singing",
+         "custom":false
+      },
+      "18":{
+         "quote":"Cluster analysis",
+         "custom":false
+      },
+      "19":{
+         "quote":"Consider different fading systems",
+         "custom":false
+      },
+      "20":{
+         "quote":"Consult other sources \\n - promising \\n - unpromising",
+         "custom":false
+      },
+      "21":{
+         "quote":"Convert a melodic element into a rhythmic element",
+         "custom":false
+      },
+      "22":{
+         "quote":"Courage!",
+         "custom":false
+      },
+      "23":{
+         "quote":"Cut a vital connection",
+         "custom":false
+      },
+      "24":{
+         "quote":"Decorate, decorate",
+         "custom":false
+      },
+      "25":{
+         "quote":"Define an area as `safe' and use it as an anchor",
+         "custom":false
+      },
+      "26":{
+         "quote":"Destroy \\n - nothing \\n - the most important thing",
+         "custom":false
+      },
+      "27":{
+         "quote":"Discard an axiom",
+         "custom":false
+      },
+      "28":{
+         "quote":"Disconnect from desire",
+         "custom":false
+      },
+      "29":{
+         "quote":"Discover the recipes you are using and abandon them",
+         "custom":false
+      },
+      "30":{
+         "quote":"Distorting time",
+         "custom":false
+      },
+      "31":{
+         "quote":"Do nothing for as long as possible",
+         "custom":false
+      },
+      "32":{
+         "quote":"Don't be afraid of things because they're easy to do",
+         "custom":false
+      },
+      "33":{
+         "quote":"Don't be frightened of cliches",
+         "custom":false
+      },
+      "34":{
+         "quote":"Don't be frightened to display your talents",
+         "custom":false
+      },
+      "35":{
+         "quote":"Don't break the silence",
+         "custom":false
+      },
+      "36":{
+         "quote":"Don't stress one thing more than another",
+         "custom":false
+      },
+      "37":{
+         "quote":"Do something boring",
+         "custom":false
+      },
+      "38":{
+         "quote":"Do the washing up",
+         "custom":false
+      },
+      "39":{
+         "quote":"Do the words need changing?",
+         "custom":false
+      },
+      "40":{
+         "quote":"Do we need holes?",
+         "custom":false
+      },
+      "41":{
+         "quote":"Emphasize differences",
+         "custom":false
+      },
+      "42":{
+         "quote":"Emphasize repetitions",
+         "custom":false
+      },
+      "43":{
+         "quote":"Emphasize the flaws",
+         "custom":false
+      },
+      "44":{
+         "quote":"Faced with a choice, do both (given by Dieter Roth)",
+         "custom":false
+      },
+      "45":{
+         "quote":"Feedback recordings into an acoustic situation",
+         "custom":false
+      },
+      "46":{
+         "quote":"Fill every beat with something",
+         "custom":false
+      },
+      "47":{
+         "quote":"Get your neck massaged",
+         "custom":false
+      },
+      "48":{
+         "quote":"Ghost echoes",
+         "custom":false
+      },
+      "49":{
+         "quote":"Give the game away",
+         "custom":false
+      },
+      "50":{
+         "quote":"Give way to your worst impulse",
+         "custom":false
+      },
+      "51":{
+         "quote":"Go slowly all the way round the outside",
+         "custom":false
+      },
+      "52":{
+         "quote":"Honor thy error as a hidden intention",
+         "custom":false
+      },
+      "53":{
+         "quote":"How would you have done it?",
+         "custom":false
+      },
+      "54":{
+         "quote":"Humanize something free of error",
+         "custom":false
+      },
+      "55":{
+         "quote":"Imagine the music as a moving chain or caterpillar",
+         "custom":false
+      },
+      "56":{
+         "quote":"Imagine the music as a set of disconnected events",
+         "custom":false
+      },
+      "57":{
+         "quote":"Infinitesimal gradations",
+         "custom":false
+      },
+      "58":{
+         "quote":"Intentions \\n - credibility of \\n - nobility of \\n - humility of",
+         "custom":false
+      },
+      "59":{
+         "quote":"Into the impossible",
+         "custom":false
+      },
+      "60":{
+         "quote":"Is it finished?",
+         "custom":false
+      },
+      "61":{
+         "quote":"Is there something missing?",
+         "custom":false
+      },
+      "62":{
+         "quote":"Is the tuning appropriate?",
+         "custom":false
+      },
+      "63":{
+         "quote":"Just carry on",
+         "custom":false
+      },
+      "64":{
+         "quote":"Left channel, right channel, centre channel",
+         "custom":false
+      },
+      "65":{
+         "quote":"Listen in total darkness, or in a very large room, very quietly",
+         "custom":false
+      },
+      "66":{
+         "quote":"Listen to the quiet voice",
+         "custom":false
+      },
+      "67":{
+         "quote":"Look at a very small object, look at its centre",
+         "custom":false
+      },
+      "68":{
+         "quote":"Look at the order in which you do things",
+         "custom":false
+      },
+      "69":{
+         "quote":"Look closely at the most embarrassing details and amplify them",
+         "custom":false
+      },
+      "70":{
+         "quote":"Lowest common denominator check \\n - single beat \\n - single note \\n - single riff",
+         "custom":false
+      },
+      "71":{
+         "quote":"Make a blank valuable by putting it in an exquisite frame",
+         "custom":false
+      },
+      "72":{
+         "quote":"Make an exhaustive list of everything you might do and do the last thing on the list",
+         "custom":false
+      },
+      "73":{
+         "quote":"[blank white card]",
+         "custom":false
+      },
+      "74":{
+         "quote":"Make a sudden, destructive unpredictable action; incorporate",
+         "custom":false
+      },
+      "75":{
+         "quote":"Mechanicalize something idiosyncratic",
+         "custom":false
+      },
+      "76":{
+         "quote":"Mute and continue",
+         "custom":false
+      },
+      "77":{
+         "quote":"Only one element of each kind",
+         "custom":false
+      },
+      "78":{
+         "quote":"(Organic) machinery",
+         "custom":false
+      },
+      "79":{
+         "quote":"Overtly resist change",
+         "custom":false
+      },
+      "80":{
+         "quote":"Put in earplugs",
+         "custom":false
+      },
+      "81":{
+         "quote":"Remember those quiet evenings",
+         "custom":false
+      },
+      "82":{
+         "quote":"Remove ambiguities and convert to specifics",
+         "custom":false
+      },
+      "83":{
+         "quote":"Remove specifics and convert to ambiguities",
+         "custom":false
+      },
+      "84":{
+         "quote":"Repetition is a form of change",
+         "custom":false
+      },
+      "85":{
+         "quote":"Reverse",
+         "custom":false
+      },
+      "86":{
+         "quote":"Short circuit (example: a man eating peas with the idea that they will improve his virility shovels them straight into his lap)",
+         "custom":false
+      },
+      "87":{
+         "quote":"Shut the door and listen from outside",
+         "custom":false
+      },
+      "88":{
+         "quote":"Simple subtraction",
+         "custom":false
+      },
+      "89":{
+         "quote":"Spectrum analysis",
+         "custom":false
+      },
+      "90":{
+         "quote":"Take a break",
+         "custom":false
+      },
+      "91":{
+         "quote":"Take away the elements in order of apparent non-importance",
+         "custom":false
+      },
+      "92":{
+         "quote":"Tape your mouth (given by Ritva Saarikko)",
+         "custom":false
+      },
+      "93":{
+         "quote":"The inconsistency principle",
+         "custom":false
+      },
+      "94":{
+         "quote":"The tape is now the music",
+         "custom":false
+      },
+      "95":{
+         "quote":"Think of the radio",
+         "custom":false
+      },
+      "96":{
+         "quote":"Tidy up",
+         "custom":false
+      },
+      "97":{
+         "quote":"Trust in the you of now",
+         "custom":false
+      },
+      "98":{
+         "quote":"Turn it upside down",
+         "custom":false
+      },
+      "99":{
+         "quote":"Twist the spine",
+         "custom":false
+      },
+      "100":{
+         "quote":"Use an old idea",
+         "custom":false
+      },
+      "101":{
+         "quote":"Use an unacceptable color",
+         "custom":false
+      },
+      "102":{
+         "quote":"Use fewer notes",
+         "custom":false
+      },
+      "103":{
+         "quote":"Use filters",
+         "custom":false
+      },
+      "104":{
+         "quote":"Use \"unqualified\" people",
+         "custom":false
+      },
+      "105":{
+         "quote":"Water",
+         "custom":false
+      },
+      "106":{
+         "quote":"What are you really thinking about just now? Incorporate",
+         "custom":false
+      },
+      "107":{
+         "quote":"What is the reality of the situation?",
+         "custom":false
+      },
+      "108":{
+         "quote":"What mistakes did you make last time?",
+         "custom":false
+      },
+      "109":{
+         "quote":"What would your closest friend do?",
+         "custom":false
+      },
+      "110":{
+         "quote":"What wouldn't you do?",
+         "custom":false
+      },
+      "111":{
+         "quote":"Work at a different speed",
+         "custom":false
+      },
+      "112":{
+         "quote":"You are an engineer",
+         "custom":false
+      },
+      "113":{
+         "quote":"You can only make one dot at a time",
+         "custom":false
+      },
+      "114":{
+         "quote":"You don't have to be ashamed of using your own ideas",
+         "custom":false
+      }
+   }
+}
